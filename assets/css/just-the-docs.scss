@@ -1,0 +1,55 @@
+@import "just-the-docs";
+
+// Custom green color scheme overrides
+:root {
+  // Light green sidebar background (replacing light purple)
+  --sidebar-color: #f0f8f0;
+  
+  // Dark green for text accents and active states (replacing purple)
+  --link-color: #2d5016;
+  --link-hover-color: #1a3009;
+  --btn-primary-color: #2d5016;
+  --btn-primary-color-dark: #1a3009;
+  
+  // Ensure sidebar has light green background
+  --body-background-color: #ffffff;
+  --search-background-color: #ffffff;
+}
+
+// Override sidebar background
+.side-bar {
+  background-color: var(--sidebar-color) !important;
+}
+
+// Override active nav items
+.nav-list .nav-list-item .nav-list-link.active {
+  background-color: rgba(45, 80, 22, 0.08);
+  color: var(--link-color);
+}
+
+// Override hover states
+.nav-list .nav-list-item .nav-list-link:hover {
+  background-color: rgba(45, 80, 22, 0.04);
+}
+
+// Override buttons
+.btn {
+  background-color: var(--btn-primary-color);
+  border-color: var(--btn-primary-color);
+}
+
+.btn:hover {
+  background-color: var(--btn-primary-color-dark);
+  border-color: var(--btn-primary-color-dark);
+}
+
+// Override site title
+.site-title {
+  color: var(--link-color);
+}
+
+// Override search input focus
+.search-input:focus {
+  border-color: var(--btn-primary-color);
+  box-shadow: 0 0 0 2px rgba(45, 80, 22, 0.2);
+}
