@@ -1,0 +1,13 @@
+title: UniMaaS Wiki
+description: A starter template for a Jeykll site using the Just the Docs theme!
+theme: just-the-docs
+
+url: https://just-the-docs.github.io
+
+# Search placeholder customization
+search:
+  placeholder: Search UniMaaS Wiki
+
+# External links shown in the header
+aux_links:
+  Project Website: https://unimaas-project.eu/
