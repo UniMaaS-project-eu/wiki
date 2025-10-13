@@ -1,4 +1,4 @@
-# UniMaaS Wiki
+# UniMaaS Wiki (work In Progress)
 
 Unified Modeling and Automated Scheduling for Manufacturing as a Service (UniMaaS) delivers a platform enabling flexible, decentralized manufacturing and supply chains as a Service for European SMEs and industries. The project addresses key challenges including product customization, circularity and sustainability, minimal downtime, predictive maintenance, seamless communication, robustness to demand/resource variability, and cost/performance optimization.
 
@@ -21,7 +21,7 @@ The platform and suites will be demonstrated in four pilots:
 - 3D construction printing
 - Logistics and warehouse management
 
-## Documentation
+## Documentation (work In Progress)
 
 - Getting Started: `/getting-started/`
 - Guides: `/guides/`
