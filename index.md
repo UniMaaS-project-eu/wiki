@@ -10,9 +10,9 @@ Unified Modeling and Automated Scheduling for Manufacturing as a Service (UniMaa
 
 The platform comprises three integrated suites:
 
-- Data Modelling Suite: manufacturing dataspaces, cloud-based resource monitoring, trusted cross-company data exchange, and digital product passport.
-- Modelling Suite: modular modelling of manufacturing resources, intent-based servitization, AI-driven estimations, and Zero‑X analysis.
-- Decision‑Making Suite: scheduling and planning of resources, plus circularity and sustainability optimization.
+- **Data Modelling Suite**: manufacturing dataspaces, cloud-based resource monitoring, trusted cross-company data exchange, and digital product passport.
+- **Modelling Suite**: modular modelling of manufacturing resources, intent-based servitization, AI-driven estimations, and Zero‑X analysis.
+- **Decision‑Making Suite**: scheduling and planning of resources, plus circularity and sustainability optimization.
 
 Powered by cloud computing, digital twins, and trustworthy AI, UniMaaS supports the full lifecycle of processes and products and provides easy access to customized manufacturing service chains. The platform and its suites will be demonstrated across four pilots: aircraft maintenance, automotive seating, 3D construction printing, and logistics/warehouse management.
 
