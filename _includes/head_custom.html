@@ -1,0 +1,85 @@
+<!-- Theme toggle button -->
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  // Create theme toggle button
+  const themeToggle = document.createElement('button');
+  themeToggle.innerHTML = '🌙'; // Dark mode icon
+  themeToggle.className = 'theme-toggle';
+  themeToggle.style.cssText = `
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 1000;
+    background: var(--btn-primary-color, #2d5016);
+    color: white;
+    border: none;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+    font-size: 16px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+    transition: all 0.3s ease;
+  `;
+  
+  // Add to page
+  document.body.appendChild(themeToggle);
+  
+  // Theme toggle functionality
+  let isDark = false;
+  
+  themeToggle.addEventListener('click', function() {
+    isDark = !isDark;
+    
+    if (isDark) {
+      // Switch to dark mode
+      document.body.classList.add('dark-theme');
+      themeToggle.innerHTML = '☀️'; // Light mode icon
+      localStorage.setItem('theme', 'dark');
+    } else {
+      // Switch to light mode
+      document.body.classList.remove('dark-theme');
+      themeToggle.innerHTML = '🌙'; // Dark mode icon
+      localStorage.setItem('theme', 'light');
+    }
+  });
+  
+  // Load saved theme
+  const savedTheme = localStorage.getItem('theme');
+  if (savedTheme === 'dark') {
+    isDark = true;
+    document.body.classList.add('dark-theme');
+    themeToggle.innerHTML = '☀️';
+  }
+});
+</script>
+
+<!-- Dark theme styles -->
+<style>
+.dark-theme {
+  --body-background-color: #1a1a1a;
+  --sidebar-color: #2d2d2d;
+  --search-background-color: #2d2d2d;
+  --text-color: #e8e8e8;
+  --muted-text-color: #999999;
+}
+
+.dark-theme .side-bar {
+  background-color: var(--sidebar-color) !important;
+}
+
+.dark-theme .main-content {
+  background-color: var(--body-background-color);
+  color: var(--text-color);
+}
+
+.dark-theme .search-input {
+  background-color: var(--search-background-color);
+  color: var(--text-color);
+  border-color: var(--link-color);
+}
+
+.dark-theme .search-input::placeholder {
+  color: var(--muted-text-color);
+}
+</style>
