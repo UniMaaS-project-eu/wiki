@@ -2,7 +2,7 @@ title: UniMaaS Wiki
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
-# Custom green color scheme with dark mode support
+# Custom green color scheme
 color_scheme: green
 
 url: https://just-the-docs.github.io
