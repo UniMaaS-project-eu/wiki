@@ -11,6 +11,9 @@ url: https://just-the-docs.github.io
 search:
   placeholder: Search UniMaaS Wiki
 
+# Logo path (optional - defaults to /assets/images/logo.png)
+logo: /assets/images/logo.png
+
 # External links shown in the header
 aux_links:
   Project Website: https://unimaas-project.eu/
