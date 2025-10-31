@@ -6,14 +6,3 @@
   vertical-align: middle;
 }
 
-.site-title {
-  display: flex;
-  align-items: center;
-  padding: 0.5rem 0;
-}
-
-.site-title-text {
-  font-size: 1.25rem;
-  font-weight: 400;
-}
-
