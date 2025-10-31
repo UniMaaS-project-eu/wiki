@@ -1,8 +1,7 @@
 /* Custom logo styling */
 .site-logo {
+  display: block;
   height: 40px;
   width: auto;
-  margin-right: 0.5rem;
-  vertical-align: middle;
 }
 
