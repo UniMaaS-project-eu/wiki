@@ -1,7 +1,28 @@
 /* Custom logo styling */
 .site-logo {
-  display: block;
+  display: inline-block;
   height: 40px;
   width: auto;
+  vertical-align: middle;
+}
+
+.site-title {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.site-title-badge {
+  display: inline-block;
+  padding: 0.25rem 0.75rem;
+  background-color: rgba(45, 80, 22, 0.05);
+  color: #2d5016;
+  border: 1px solid rgba(45, 80, 22, 0.15);
+  border-radius: 12px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  vertical-align: middle;
+  white-space: nowrap;
 }
 
