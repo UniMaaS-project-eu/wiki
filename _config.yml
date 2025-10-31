@@ -6,7 +6,6 @@ theme: just-the-docs
 color_scheme: green
 
 url: https://just-the-docs.github.io
-baseurl: /wiki # GitHub Pages baseurl - adjust if your repo has a different name
 
 # Search placeholder customization
 search:

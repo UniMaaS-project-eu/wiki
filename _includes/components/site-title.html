@@ -1,0 +1,6 @@
+<a href="{{ '/' | relative_url }}" class="site-title lh-tight" title="{{ site.title | escape }}">
+  {% if site.logo %}
+    <img src="{{ site.logo | relative_url }}" alt="{{ site.title | escape }}" class="site-logo">
+  {% endif %}
+  <span class="site-title-text">{{ site.title }}</span>
+</a>
