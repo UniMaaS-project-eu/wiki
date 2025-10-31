@@ -1,9 +1,5 @@
-<a href="{{ '/' | relative_url }}" class="site-title" title="{{ site.title | escape }}">
-  {% if site.logo %}
-    <img src="{{ site.logo | relative_url }}" alt="{{ site.title | escape }}" class="site-logo">
-  {% else %}
-    <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="{{ site.title | escape }}" class="site-logo">
-  {% endif %}
+<a href="{{ '/' | relative_url }}" class="site-title lh-tight" title="{{ site.title | escape }}" style="--logo-url: url('{{ '/assets/images/logo.png' | relative_url }}');">
+  <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="{{ site.title | escape }}" class="site-logo">
   <span class="site-title-text">{{ site.title }}</span>
 </a>
 
