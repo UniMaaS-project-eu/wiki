@@ -2,7 +2,7 @@
 title: Home
 layout: home
 permalink: /
-nav_exclude: true
+nav_order: 0
 ---
 
 ## UniMaaS Wiki
