@@ -5,5 +5,7 @@ nav_order: 2
 permalink: /architecture/
 ---
 
-This section will capture the UniMaaS reference architecture and related blueprints as they are defined.
+This section documents the UniMaaS reference architecture as it is defined, including high‑level components, interactions, and deployment views.
+
+- Reference Architecture — placeholder to be completed by partners
 
