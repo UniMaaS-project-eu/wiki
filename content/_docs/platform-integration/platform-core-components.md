@@ -1,6 +1,6 @@
 ---
 title: Platform Core Components
-parent: Platform Integration and DevOps
+parent: Platform Integration
 nav_order: 1
 ---
 

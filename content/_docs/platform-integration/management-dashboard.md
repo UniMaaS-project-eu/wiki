@@ -1,6 +1,6 @@
 ---
 title: Management Dashboard
-parent: Platform Integration and DevOps
+parent: Platform Integration
 nav_order: 2
 ---
 

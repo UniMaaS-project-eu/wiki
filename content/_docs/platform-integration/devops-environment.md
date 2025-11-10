@@ -1,6 +1,6 @@
 ---
 title: DevOps Environment
-parent: Platform Integration and DevOps
+parent: Platform Integration
 nav_order: 3
 ---
 

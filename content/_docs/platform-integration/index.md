@@ -1,8 +1,8 @@
 ---
-title: Platform Integration and DevOps
+title: Platform Integration
 has_children: true
 nav_order: 4
-permalink: /platform-integration-devops/
+permalink: /platform-integration/
 ---
 
 This section outlines the integration backbone, operational management, and DevOps practices that support UniMaaS in production:
