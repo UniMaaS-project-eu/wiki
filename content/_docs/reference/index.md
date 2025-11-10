@@ -1,8 +1,8 @@
 ---
 title: Reference
 nav_order: 3
+permalink: /reference/
 has_children: true
-layout: default
 ---
 
 API and configuration reference.

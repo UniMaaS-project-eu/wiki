@@ -17,3 +17,22 @@ logo: /assets/images/logo.png
 # External links shown in the header
 aux_links:
   Project Website: https://unimaas-project.eu/
+
+collections_dir: content
+collections:
+  docs:
+    output: true
+    permalink: /:path/
+
+just_the_docs:
+  collections:
+    docs:
+      name: Documentation
+      nav_fold: true
+
+defaults:
+  - scope:
+      path: ""
+      type: docs
+    values:
+      layout: default

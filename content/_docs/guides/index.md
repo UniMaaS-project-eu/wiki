@@ -1,8 +1,8 @@
 ---
 title: Guides
 nav_order: 2
+permalink: /guides/
 has_children: true
-layout: default
 ---
 
 Step-by-step guides.

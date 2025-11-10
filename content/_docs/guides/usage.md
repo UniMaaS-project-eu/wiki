@@ -2,7 +2,6 @@
 title: Usage
 parent: Guides
 nav_order: 1
-layout: default
 ---
 
 How to use the product.

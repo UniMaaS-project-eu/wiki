@@ -2,7 +2,6 @@
 title: Overview
 parent: Getting Started
 nav_order: 1
-layout: default
 ---
 
 This page gives an overview.

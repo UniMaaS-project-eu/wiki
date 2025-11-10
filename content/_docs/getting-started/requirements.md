@@ -2,7 +2,6 @@
 title: Requirements
 parent: Getting Started
 nav_order: 2
-layout: default
 ---
 
 System requirements and prerequisites.

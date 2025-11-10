@@ -2,7 +2,6 @@
 title: API
 parent: Reference
 nav_order: 1
-layout: default
 ---
 
 Endpoints overview.
