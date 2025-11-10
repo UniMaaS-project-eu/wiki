@@ -1,8 +1,31 @@
 # UniMaaS Wiki (work In Progress)
 
-[![Static Site - Jekyll](https://img.shields.io/badge/static%20site-Jekyll-CC0000?logo=jekyll&logoColor=white)](https://jekyllrb.com/)
-[![Built with Ruby](https://img.shields.io/badge/built%20with-Ruby-CC342D?logo=ruby&logoColor=white)](https://www.ruby-lang.org/)
-[![Hosted on GitHub Pages](https://img.shields.io/badge/hosted%20on-GitHub%20Pages-222222?logo=github&logoColor=white)](https://pages.github.com/)
+## Technology Stack
+
+<div align="center">
+
+### Static Site Generation
+
+![Jekyll](https://img.shields.io/badge/Jekyll-4.3+-CC0000?style=for-the-badge&logo=jekyll&logoColor=white)
+![Just the Docs](https://img.shields.io/badge/Theme-Just_the_Docs-0D2538?style=for-the-badge)
+![Markdown](https://img.shields.io/badge/Content-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+### Language & Tooling
+
+![Ruby](https://img.shields.io/badge/Ruby-3.3+-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Bundler](https://img.shields.io/badge/Dependencies-Bundler-FF69B4?style=for-the-badge&logo=rubygems&logoColor=white)
+
+### CI/CD & Hosting
+
+![GitHub Actions](https://img.shields.io/badge/CI-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/Hosting-GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white)
+
+### Documentation Enhancements
+
+![Search](https://img.shields.io/badge/Search-Lunr.js-0E83CD?style=for-the-badge&logo=javascript&logoColor=white)
+![Styles](https://img.shields.io/badge/Styles-Custom_SCSS-1F9BCF?style=for-the-badge)
+
+</div>
 
 Unified Modeling and Automated Scheduling for Manufacturing as a Service (UniMaaS) delivers a platform enabling flexible, decentralized manufacturing and supply chains as a Service for European SMEs and industries. The project addresses key challenges including product customization, circularity and sustainability, minimal downtime, predictive maintenance, seamless communication, robustness to demand/resource variability, and cost/performance optimization.
 
