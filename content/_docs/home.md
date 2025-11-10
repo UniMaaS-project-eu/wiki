@@ -20,5 +20,4 @@ Powered by cloud computing, digital twins, and trustworthy AI, UniMaaS supports 
 [Project Overview](/wiki/project-overview/){: .btn .btn-primary .mr-2 }
 [Architecture](/wiki/architecture/){: .btn .mr-2 }
 [Core Suites](/wiki/suites/){: .btn .mr-2 }
-[Platform Integration](/wiki/platform-integration/){: .btn .mr-2 }
 [Pilot Implementations](/wiki/pilot-implementations/){: .btn }
