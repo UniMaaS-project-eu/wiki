@@ -17,6 +17,7 @@ The platform comprises three integrated suites:
 
 Powered by cloud computing, digital twins, and trustworthy AI, UniMaaS supports the full lifecycle of processes and products and provides easy access to customized manufacturing service chains. The platform and its suites will be demonstrated across four pilots: aircraft maintenance, automotive seating, 3D construction printing, and logistics/warehouse management.
 
-[Get started](/wiki/getting-started/){: .btn .btn-primary .mr-2 }
-[Guides](/wiki/guides/){: .btn .mr-2 }
-[Reference](/wiki/reference/){: .btn }
+[Project Overview](/wiki/project-overview/){: .btn .btn-primary .mr-2 }
+[Architecture](/wiki/architecture/){: .btn .mr-2 }
+[Core Suites](/wiki/suites/){: .btn .mr-2 }
+[Pilot Implementations](/wiki/pilot-implementations/){: .btn }
