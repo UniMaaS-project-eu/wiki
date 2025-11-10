@@ -4,6 +4,8 @@ parent: Pilot Implementations
 nav_order: 1
 ---
 
+## Aircraft Maintenance as a Service
+
 ## Use Case Description
 
 Led by **AEGEAN Airlines** in collaboration with NTUA and QUB, this pilot addresses workload optimization and scheduling challenges in aircraft maintenance operations.

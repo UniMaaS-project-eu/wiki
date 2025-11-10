@@ -4,6 +4,8 @@ parent: Pilot Implementations
 nav_order: 2
 ---
 
+## Automotive Seat Manufacturing
+
 ## Use Case Description
 
 Led by **ADIENT** in partnership with UPV and QUB, this pilot focuses on sustainable supply chain production and transport planning in the automotive seating manufacturing sector.

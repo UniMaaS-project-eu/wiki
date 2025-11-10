@@ -5,6 +5,8 @@ nav_order: 4
 permalink: /platform-integration/
 ---
 
+## Platform Integration
+
 This section outlines the integration backbone, operational management, and DevOps practices that support UniMaaS in production:
 
 - Platform Core Components — core services and integration points (placeholder)

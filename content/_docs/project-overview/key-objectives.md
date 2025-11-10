@@ -4,6 +4,8 @@ parent: Project Overview
 nav_order: 2
 ---
 
+## Key Objectives and Innovation Areas
+
 UniMaaS focuses on five primary innovation areas:
 
 1. **On-the-fly Modeling**: Dynamic creation and adaptation of models describing manufacturing supply chains as hybrid systems

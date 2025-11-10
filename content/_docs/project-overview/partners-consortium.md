@@ -4,6 +4,8 @@ parent: Project Overview
 nav_order: 3
 ---
 
+## Partners and Consortium
+
 The UniMaaS consortium brings together **18 partners from 9 European countries plus Canada**, combining multidisciplinary competencies from academia, industry, and research communities:
 
 **Coordinator:**
