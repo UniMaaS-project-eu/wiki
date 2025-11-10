@@ -1,5 +1,9 @@
 # UniMaaS Wiki (work In Progress)
 
+[![Static Site - Jekyll](https://img.shields.io/badge/static%20site-Jekyll-CC0000?logo=jekyll&logoColor=white)](https://jekyllrb.com/)
+[![Built with Ruby](https://img.shields.io/badge/built%20with-Ruby-CC342D?logo=ruby&logoColor=white)](https://www.ruby-lang.org/)
+[![Hosted on GitHub Pages](https://img.shields.io/badge/hosted%20on-GitHub%20Pages-222222?logo=github&logoColor=white)](https://pages.github.com/)
+
 Unified Modeling and Automated Scheduling for Manufacturing as a Service (UniMaaS) delivers a platform enabling flexible, decentralized manufacturing and supply chains as a Service for European SMEs and industries. The project addresses key challenges including product customization, circularity and sustainability, minimal downtime, predictive maintenance, seamless communication, robustness to demand/resource variability, and cost/performance optimization.
 
 ## Platform Overview
