@@ -1,10 +1,12 @@
 ---
-title: Cloud-based Resource Monitoring
+title: Cloud-based Manufacturing Resource Monitoring
 parent: Data Management Suite (WP4)
 nav_order: 2
 ---
 
-## Cloud-based Resource Monitoring
+## Cloud-based Manufacturing Resource Monitoring
+
+### Task T4.2
 
 > This page will be completed by the following partners:
 >

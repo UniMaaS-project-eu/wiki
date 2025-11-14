@@ -1,10 +1,12 @@
 ---
-title: Platform Core Components
+title: Platform Integration, Testing and Refinement
 parent: Platform Integration
 nav_order: 1
 ---
 
-## Platform Core Components
+## Platform Integration, Testing and Refinement
+
+### Task T8.1
 
 > This page will be completed by the following partners:
 >

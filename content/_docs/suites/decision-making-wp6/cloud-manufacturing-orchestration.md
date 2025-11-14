@@ -1,10 +1,12 @@
 ---
-title: Cloud Manufacturing Orchestration
+title: Cloud-based Manufacturing Resource Orchestration
 parent: Decision-Making Suite (WP6)
 nav_order: 3
 ---
 
-## Cloud Manufacturing Orchestration
+## Cloud-based Manufacturing Resource Orchestration
+
+### Task T6.3
 
 > This page will be completed by the following partners:
 >
