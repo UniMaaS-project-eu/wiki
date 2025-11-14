@@ -6,5 +6,9 @@ nav_order: 4
 
 ## Zero-X Evaluation
 
-> Placeholder: This page will be completed by partners.
+> This page will be completed by the following partners:
+>
+> **Lead:** QUB
+>
+> **Contributors:** NTUA, UCLouvain, LUK
 

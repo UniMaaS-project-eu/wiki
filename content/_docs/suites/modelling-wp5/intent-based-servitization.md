@@ -6,5 +6,9 @@ nav_order: 3
 
 ## Intent-based Servitization
 
-> Placeholder: This page will be completed by partners.
+> This page will be completed by the following partners:
+>
+> **Lead:** ETS
+>
+> **Contributors:** NTUA, QUB, UCLouvain, AEGEAN, LUK
 

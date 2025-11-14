@@ -6,5 +6,9 @@ nav_order: 2
 
 ## AI-based Predictors
 
-> Placeholder: This page will be completed by partners.
+> This page will be completed by the following partners:
+>
+> **Lead:** NTUA
+>
+> **Contributors:** QUB, UCLouvain, INRIA, AEGEAN, TUB, UPV, ETS, LUK
 

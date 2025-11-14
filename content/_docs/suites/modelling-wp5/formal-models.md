@@ -6,5 +6,9 @@ nav_order: 1
 
 ## Formal Models
 
-> Placeholder: This page will be completed by partners.
+> This page will be completed by the following partners:
+>
+> **Lead:** QUB
+>
+> **Contributors:** NTUA, UCLouvain, AEGEAN, ETS, UPV, LUK
 
