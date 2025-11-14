@@ -6,5 +6,9 @@ nav_order: 4
 
 ## Digital Product Passport
 
-> Placeholder: This page will be completed by partners.
+> This page will be completed by the following partners:
+>
+> **Lead:** ODINS
+>
+> **Contributors:** FLM, FDI
 

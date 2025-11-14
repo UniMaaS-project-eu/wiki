@@ -6,5 +6,9 @@ nav_order: 1
 
 ## Data Spaces and Knowledge Graph
 
-> Placeholder: This page will be completed by partners.
+> This page will be completed by the following partners:
+>
+> **Lead:** FLM
+>
+> **Contributors:** NTUA, QUB, UCLouvain, AEGEAN, TUB, NET, LUK, CEL, ODINS
 
