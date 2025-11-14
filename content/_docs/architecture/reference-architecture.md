@@ -1,13 +1,11 @@
 ---
-title: UniMaaS Reference Architecture and Technology Watch
+title: Reference Architecture
 parent: Architecture
 nav_order: 1
 ---
 
-## UniMaaS Reference Architecture and Technology Watch
-
+## Reference Architecture
 ### Task T3.1
-
 > This page will be completed by the following partners:
 >
 > **Lead:** NTUA
