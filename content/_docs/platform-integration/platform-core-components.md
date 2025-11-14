@@ -6,5 +6,9 @@ nav_order: 1
 
 ## Platform Core Components
 
-> Placeholder: This page will be completed by partners.
+> This page will be completed by the following partners:
+>
+> **Lead:** NET
+>
+> **Contributors:** NTUA, INRIA, UPV, NET-BE, ETS, FLM, LUK, CEL, ODINS, FDI, ANV
 

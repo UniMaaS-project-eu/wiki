@@ -6,5 +6,9 @@ nav_order: 3
 
 ## DevOps Environment
 
-> Placeholder: This page will be completed by partners.
+> This page will be completed by the following partners:
+>
+> **Lead:** NET
+>
+> **Contributors:** NTUA, NET-BE, FLM, ODINS
 

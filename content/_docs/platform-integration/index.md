@@ -9,7 +9,7 @@ permalink: /platform-integration/
 
 This section outlines the integration backbone, operational management, and DevOps practices that support UniMaaS in production:
 
-- Platform Core Components — core services and integration points (placeholder)
-- Management Dashboard — operational visibility and control (placeholder)
-- DevOps Environment — build, deployment, and environment management (placeholder)
+- Platform Core Components — core services and integration points (Lead: NET, Contributors: NTUA, INRIA, UPV, NET-BE, ETS, FLM, LUK, CEL, ODINS, FDI, ANV)
+- Management Dashboard — operational visibility and control (Lead: CEL, Contributors: NTUA, UPV, NET, NET-BE, ODINS)
+- DevOps Environment — build, deployment, and environment management (Lead: NET, Contributors: NTUA, NET-BE, FLM, ODINS)
 

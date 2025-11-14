@@ -6,5 +6,9 @@ nav_order: 2
 
 ## Management Dashboard
 
-> Placeholder: This page will be completed by partners.
+> This page will be completed by the following partners:
+>
+> **Lead:** CEL
+>
+> **Contributors:** NTUA, UPV, NET, NET-BE, ODINS
 
