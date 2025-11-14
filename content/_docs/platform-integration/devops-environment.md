@@ -1,7 +1,7 @@
 ---
 title: DevOps Environment, Continuous Integration and Quality Assurance
 parent: Platform Integration
-nav_order: 3
+nav_order: 2
 ---
 
 ## DevOps Environment, Continuous Integration and Quality Assurance

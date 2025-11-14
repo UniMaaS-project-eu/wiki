@@ -1,7 +1,7 @@
 ---
 title: Platform Management and Business Intelligence Dashboard
 parent: Platform Integration
-nav_order: 2
+nav_order: 1
 ---
 
 ## Platform Management and Business Intelligence Dashboard
