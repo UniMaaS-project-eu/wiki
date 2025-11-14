@@ -6,5 +6,9 @@ nav_order: 3
 
 ## Cloud Manufacturing Orchestration
 
-> Placeholder: This page will be completed by partners.
+> This page will be completed by the following partners:
+>
+> **Lead:** NTUA
+>
+> **Contributors:** QUB, UCLouvain, INRIA, AEGEAN, UPV, ETS, ADIENT, LUK, FDI
 

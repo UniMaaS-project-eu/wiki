@@ -6,5 +6,9 @@ nav_order: 2
 
 ## Digital Twins
 
-> Placeholder: This page will be completed by partners.
+> This page will be completed by the following partners:
+>
+> **Lead:** ETS
+>
+> **Contributors:** NTUA, QUB, UCLouvain, INRIA, AEGEAN, UPV, LUK, FDI
 

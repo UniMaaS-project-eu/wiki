@@ -6,5 +6,9 @@ nav_order: 1
 
 ## Resource Scheduling and Planning
 
-> Placeholder: This page will be completed by partners.
+> This page will be completed by the following partners:
+>
+> **Lead:** UCLouvain
+>
+> **Contributors:** NTUA, QUB, INRIA, AEGEAN, UPV, ETS, LUK
 
