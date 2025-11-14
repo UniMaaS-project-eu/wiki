@@ -63,4 +63,10 @@ Once approved, the PR merges into `main` and the site publishes automatically.
 4. Every change must flow through a PR; never push directly to `main`.
 5. The Netcompany integration team approves all PRs prior to merge.
 
+### 6. Need help?
+
+If you have questions or encounter issues:
+- Raise an issue in this repository on GitHub
+- Contact the Netcompany integration team directly
+
 Workflow recap: find your files → branch → edit → push → PR → review → merge.
