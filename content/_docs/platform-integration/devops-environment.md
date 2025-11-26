@@ -8,7 +8,7 @@ nav_order: 2
 
 ### Task T8.3
 
-> This page will be completed by the following partners:
+> This page will be completed by the following partners :
 >
 > **Lead:** NET
 >
