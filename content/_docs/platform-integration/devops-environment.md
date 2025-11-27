@@ -10,7 +10,7 @@ nav_order: 2
 
 > This page will be completed by the following partners :
 >
-> **Lead:** NET
+> **Lead:** NETCOMPANY
 >
 > **Contributors:** NTUA, NET-BE, FLM, ODINS
 
