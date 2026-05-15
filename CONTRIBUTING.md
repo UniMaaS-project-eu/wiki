@@ -2,25 +2,26 @@
 
 A guide for partners contributing documentation to the UniMaaS wiki.
 
-### 1. Initial setup (one time)
+### 1. Initial setup (Once)
 
 1. Get added as a collaborator on the GitHub repository.
 2. Clone the repository locally.
-3. Review the repo for every file where your organization appears as **Lead** in the header block.
+3. All documentation files are now located in the **`docs/`** directory.
+4. Review the `docs/` directory for every file where your organization appears as **Lead** in the header block.
 
 ### 2. Locate your files
 
-Each markdown file begins with a partner assignment header similar to:
+Each markdown file inside the `docs/` directory begins with a partner assignment header similar to:
 
-``````
+```markdown
 > This page will be completed by the following partners:
 >
 > **Lead:** CEL
 >
 > **Contributors:** NTUA, UPV, NET, NET-BE, ODINS
-``````
+```
 
-Search the repo for your organization name to build your task list.
+Search the `docs/` folder for your organization name to build your task list.
 
 ### 3. Deliver work (per task or task group)
 
@@ -28,7 +29,7 @@ Search the repo for your organization name to build your task list.
 Never work directly on `main`. Create a feature branch such as `wp4-task4.1-partnername`.
 
 **Step 2 – Edit**  
-Update only the files where you are listed. Replace placeholder text with the actual technical content and keep any provided template structure.
+Update only the files inside `docs/` where you are listed. Replace placeholder text with the actual technical content and keep any provided template structure.
 
 **Step 3 – Commit**  
 Write descriptive commit messages prefixed with the work package/task, e.g., `WP4-T4.1: Add Data Spaces documentation`.
@@ -43,7 +44,7 @@ Lead partners open the PR, provide a clear title and description, and tag contri
 Wait for the Netcompany integration team to review.
 
 **Step 7 – Merge & publish**  
-Once approved, the PR merges into `main` and the site publishes automatically.
+Once approved, the PR merges into `main` and the site publishes automatically via GitHub Actions.
 
 ### 4. Choose a workflow style
 
@@ -69,4 +70,4 @@ If you have questions or encounter issues:
 - Raise an issue in this repository on GitHub
 - Contact the Netcompany integration team directly
 
-Workflow recap: find your files → branch → edit → push → PR → review → merge.
+Workflow recap: locate files in `docs/` → branch → edit → push → PR → review → merge.
