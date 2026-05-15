@@ -7,8 +7,8 @@ const config: Config = {
   tagline: 'Unified Modeling and Automated Scheduling for Manufacturing as a Service',
   favicon: 'img/logo.png',
 
-  url: 'https://unimaas-project.eu',
-  baseUrl: '/',
+  url: 'https://UniMaaS-project-eu.github.io',
+  baseUrl: '/wiki/',
 
   organizationName: 'UniMaaS-project-eu', 
   projectName: 'wiki', 
