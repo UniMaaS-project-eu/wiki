@@ -5,7 +5,7 @@ sidebar_position: 1
 
 ## IC17 - Core Integration Platform
 
-**Component metadata:** **ID:** IC17 | **Area:** Platform Integration | **Partner:** NET | **Task:** T8.1
+**Component metadata:** **ID:** IC17 | **Name:** Core Integration Platform | **Area:** Platform Integration | **Partner:** NET | **Task:** T8.1 | **TRL:** TBD
 
 The sections below are suggested to keep component documentation consistent across UniMaaS. If another structure better describes this component, partners may adapt it, as long as the page clearly explains the component role, integrations, API documentation, architecture, data models, and deployment information.
 

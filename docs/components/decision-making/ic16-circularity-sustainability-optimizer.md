@@ -5,7 +5,7 @@ sidebar_position: 4
 
 ## IC16 - Circularity & Sustainability Optimizer
 
-**Component metadata:** **ID:** IC16 | **Area:** Decision-Making | **Partner:** UPV | **Task:** T6.4
+**Component metadata:** **ID:** IC16 | **Name:** Circularity & Sustainability Optimizer | **Area:** Decision-Making | **Partner:** UPV | **Task:** T6.4 | **TRL:** TBD
 
 The sections below are suggested to keep component documentation consistent across UniMaaS. If another structure better describes this component, partners may adapt it, as long as the page clearly explains the component role, integrations, API documentation, architecture, data models, and deployment information.
 
@@ -15,13 +15,20 @@ The Circularity & Sustainability Optimizer optimises manufacturing models by int
 
 ## Integration Context
 
-Describe which UniMaaS components this component integrates with, including verbal inputs and outputs.
+Describe how the component connects with the rest of the platform.
+
+Suggested points:
+
+- Input dependencies from other components.
+- Output dependencies to other components.
+- Communication protocols and interfaces.
+- Main exchanged data, events, files, or API calls.
 
 ## OpenAPI Specs / API Documentation
 
 Where applicable, provide:
 
-- Repository `openapi.yaml`: TBD
+- Repository OpenAPI spec: TBD
 - Swagger UI: TBD
 
 Recommended approach:
@@ -34,16 +41,41 @@ If the component does not expose an API, state that clearly.
 
 ## Architecture of the Component
 
-TBD
+Describe the internal architecture of the component.
+
+Suggested points:
+
+- Main services/modules.
+- Architecture mapping to the UniMaaS platform.
+- External systems used.
+- Diagram, if available.
 
 ## Data Models
 
-TBD
+Describe the main data structures handled by the component.
+
+Suggested points:
+
+- Request/response models.
+- RDF/ontology terms.
+- Database entities.
+- Event/message payloads.
+- Files, schemas, or exchanged datasets.
 
 ## Deployment Notes
 
-TBD
+Describe how the component is built, configured, deployed, and operated.
+
+Suggested points:
+
+- Existing codebase/repository link.
+- Programming languages and frameworks.
+- Dockerized: Yes/No.
+- State if a Dockerfile, Docker Compose, Helm, Kubernetes, or other deployment asset exists.
+- Environment dependencies, containers, systems, databases, queues, or external services.
+- Required environment variables or configuration files.
+- Minimum hardware/runtime requirements, if relevant.
 
 ## Other
 
-TBD
+Add notes, comments, references, known limitations, open questions, or contact details.
