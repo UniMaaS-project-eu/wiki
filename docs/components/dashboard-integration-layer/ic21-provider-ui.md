@@ -3,8 +3,6 @@ title: IC21 - Provider's UI
 sidebar_position: 5
 ---
 
-## IC21 - Provider's UI
-
 **Component metadata:** **ID:** IC21 | **Name:** Provider's UI | **Area:** User-Facing | **Partner:** CEL | **Task:** T8.2 | **TRL:** TBD
 
 The sections below are suggested to keep component documentation consistent across UniMaaS. If another structure better describes this component, partners may adapt it, as long as the page clearly explains the component role, integrations, API documentation, architecture, data models, and deployment information.

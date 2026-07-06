@@ -3,8 +3,6 @@ title: IC7 - DPP Infrastructure
 sidebar_position: 7
 ---
 
-## IC7 - DPP Infrastructure
-
 **Component metadata:** **ID:** IC7 | **Name:** DPP Infrastructure | **Area:** Data Management | **Partner:** ODINS | **Task:** T4.4 | **TRL:** TBD
 
 The sections below are suggested to keep component documentation consistent across UniMaaS. If another structure better describes this component, partners may adapt it, as long as the page clearly explains the component role, integrations, API documentation, architecture, data models, and deployment information.

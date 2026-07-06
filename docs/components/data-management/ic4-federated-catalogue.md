@@ -3,8 +3,6 @@ title: IC4 - Federated Catalogue
 sidebar_position: 4
 ---
 
-## IC4 - Federated Catalogue
-
 **Component metadata:** **ID:** IC4 | **Name:** Federated Catalogue | **Area:** Data Management | **Partner:** FLM | **Task:** T4.1 | **TRL:** TBD
 
 The sections below are suggested to keep component documentation consistent across UniMaaS. If another structure better describes this component, partners may adapt it, as long as the page clearly explains the component role, integrations, API documentation, architecture, data models, and deployment information.

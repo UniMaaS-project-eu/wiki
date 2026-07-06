@@ -3,8 +3,6 @@ title: IC2 - Digital Thread Component
 sidebar_position: 2
 ---
 
-## IC2 - Digital Thread Component
-
 **Component metadata:** **ID:** IC2 | **Name:** Digital Thread Component | **Area:** Data Management | **Partner:** FLM | **Task:** T4.1 | **TRL:** TBD
 
 The sections below are suggested to keep component documentation consistent across UniMaaS. If another structure better describes this component, partners may adapt it, as long as the page clearly explains the component role, integrations, API documentation, architecture, data models, and deployment information.

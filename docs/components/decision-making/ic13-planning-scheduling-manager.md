@@ -3,8 +3,6 @@ title: IC13 - Planning and Scheduling Manager
 sidebar_position: 1
 ---
 
-## IC13 - Planning and Scheduling Manager
-
 **Component metadata:** **ID:** IC13 | **Name:** Planning and Scheduling Manager | **Area:** Decision-Making | **Partner:** UCLouvain | **Task:** T6.1 | **TRL:** TBD
 
 The sections below are suggested to keep component documentation consistent across UniMaaS. If another structure better describes this component, partners may adapt it, as long as the page clearly explains the component role, integrations, API documentation, architecture, data models, and deployment information.

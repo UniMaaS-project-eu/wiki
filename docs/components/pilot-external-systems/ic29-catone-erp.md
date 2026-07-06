@@ -3,8 +3,6 @@ title: IC29 - CATONE_ERP
 sidebar_position: 4
 ---
 
-## IC29 - CATONE_ERP
-
 **Component metadata:** **ID:** IC29 | **Area:** Pilot / External | **Partner:** CATONE | **Task:** T9.5
 
 The sections below are suggested to keep component documentation consistent across UniMaaS. If another structure better describes this component, partners may adapt it, as long as the page clearly explains the component role, integrations, API documentation, architecture, data models, and deployment information.

@@ -3,8 +3,6 @@ title: IC12 - Zero-X Evaluation Engine
 sidebar_position: 5
 ---
 
-## IC12 - Zero-X Evaluation Engine
-
 **Component metadata:** **ID:** IC12 | **Name:** Zero-X Evaluation Engine | **Area:** Modelling | **Partner:** UCLouvain | **Task:** T5.4 | **TRL:** TBD
 
 The sections below are suggested to keep component documentation consistent across UniMaaS. If another structure better describes this component, partners may adapt it, as long as the page clearly explains the component role, integrations, API documentation, architecture, data models, and deployment information.

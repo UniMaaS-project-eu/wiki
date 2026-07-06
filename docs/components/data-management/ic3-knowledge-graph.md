@@ -3,8 +3,6 @@ title: IC3 - Knowledge Graph
 sidebar_position: 3
 ---
 
-## IC3 - Knowledge Graph
-
 **Component metadata:** **ID:** IC3 | **Name:** Knowledge Graph | **Area:** Data Management | **Partner:** FLM | **Task:** T4.1 | **TRL:** TBD
 
 The sections below are suggested to keep component documentation consistent across UniMaaS. If another structure better describes this component, partners may adapt it, as long as the page clearly explains the component role, integrations, API documentation, architecture, data models, and deployment information.

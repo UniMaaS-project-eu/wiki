@@ -3,8 +3,6 @@ title: IC11 - Intent-Based Servitisation/Chatbot
 sidebar_position: 4
 ---
 
-## IC11 - Intent-Based Servitisation/Chatbot
-
 **Component metadata:** **ID:** IC11 | **Name:** Intent-Based Servitisation/Chatbot | **Area:** Modelling | **Partner:** ETS | **Task:** T5.3 | **TRL:** TBD
 
 The sections below are suggested to keep component documentation consistent across UniMaaS. If another structure better describes this component, partners may adapt it, as long as the page clearly explains the component role, integrations, API documentation, architecture, data models, and deployment information.

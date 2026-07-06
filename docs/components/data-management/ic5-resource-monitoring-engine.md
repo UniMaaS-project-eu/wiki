@@ -3,8 +3,6 @@ title: IC5 - Resource Monitoring Engine
 sidebar_position: 5
 ---
 
-## IC5 - Resource Monitoring Engine
-
 **Component metadata:** **ID:** IC5 | **Name:** Resource Monitoring Engine | **Area:** Data Management | **Partner:** NTUA | **Task:** T4.2 | **TRL:** TBD
 
 The sections below are suggested to keep component documentation consistent across UniMaaS. If another structure better describes this component, partners may adapt it, as long as the page clearly explains the component role, integrations, API documentation, architecture, data models, and deployment information.

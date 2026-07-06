@@ -3,8 +3,6 @@ title: IC10 - AI Demand & Asset Predictor
 sidebar_position: 3
 ---
 
-## IC10 - AI Demand & Asset Predictor
-
 **Component metadata:** **ID:** IC10 | **Name:** AI Demand & Asset Predictor | **Area:** Modelling | **Partner:** ETS | **Task:** T5.2 | **TRL:** TBD
 
 The sections below are suggested to keep component documentation consistent across UniMaaS. If another structure better describes this component, partners may adapt it, as long as the page clearly explains the component role, integrations, API documentation, architecture, data models, and deployment information.

@@ -3,8 +3,6 @@ title: IC16 - Circularity & Sustainability Optimizer
 sidebar_position: 4
 ---
 
-## IC16 - Circularity & Sustainability Optimizer
-
 **Component metadata:** **ID:** IC16 | **Name:** Circularity & Sustainability Optimizer | **Area:** Decision-Making | **Partner:** UPV | **Task:** T6.4 | **TRL:** TBD
 
 The sections below are suggested to keep component documentation consistent across UniMaaS. If another structure better describes this component, partners may adapt it, as long as the page clearly explains the component role, integrations, API documentation, architecture, data models, and deployment information.

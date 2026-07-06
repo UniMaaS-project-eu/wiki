@@ -3,8 +3,6 @@ title: IC15 - Cloud Mfg Orchestrator
 sidebar_position: 3
 ---
 
-## IC15 - Cloud Mfg Orchestrator
-
 **Component metadata:** **ID:** IC15 | **Name:** Cloud Mfg Orchestrator | **Area:** Decision-Making | **Partner:** NTUA | **Task:** T6.3 | **TRL:** TBD
 
 The sections below are suggested to keep component documentation consistent across UniMaaS. If another structure better describes this component, partners may adapt it, as long as the page clearly explains the component role, integrations, API documentation, architecture, data models, and deployment information.
