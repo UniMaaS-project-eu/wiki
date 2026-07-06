@@ -3,8 +3,6 @@ title: Manufacturing as a Service Concept
 sidebar_position: 4
 ---
 
-## Manufacturing as a Service Concept
-
 **Manufacturing as a Service (MaaS)** represents a paradigm shift from traditional centralized manufacturing to a flexible, distributed, and on-demand service-oriented model. This approach addresses several critical challenges facing European manufacturing:
 
 **Core Concept:**

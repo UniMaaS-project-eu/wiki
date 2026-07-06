@@ -3,8 +3,6 @@ title: Logistics and Warehouse Management
 sidebar_position: 4
 ---
 
-## Logistics and Warehouse Management
-
 ## Use Case Description
 
 Led by **CATONE** in partnership with NTUA and QUB, this pilot focuses on automated warehouse system management based on AI technologies for temperature-controlled logistics.

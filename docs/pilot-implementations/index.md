@@ -4,8 +4,6 @@ sidebar_position: 5
 slug: /pilot-implementations/
 ---
 
-## Pilot Implementations
-
 The UniMaaS platform is validated through four pilot implementations across aviation, automotive, construction, and logistics. Each pilot details its Use Case Description, Challenge, UniMaaS Solution, and Expected Impact:
 
 - Aircraft Maintenance as a Service (AEGEAN)

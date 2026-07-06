@@ -3,8 +3,6 @@ title: DevOps Environment, Continuous Integration and Quality Assurance
 sidebar_position: 2
 ---
 
-## DevOps Environment, Continuous Integration and Quality Assurance
-
 ### Task T8.3
 
 The UniMaaS CI/CD environment supports the development teams with a common set of tools for source-code management, automated build and deployment, container image distribution, user access management, reverse proxying, certificate handling, monitoring, and controlled access to the development, integration, and testing environments.

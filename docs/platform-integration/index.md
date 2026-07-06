@@ -4,8 +4,6 @@ sidebar_position: 4
 slug: /platform-integration/
 ---
 
-## Platform Integration
-
 This section outlines the integration backbone, operational management, and DevOps practices that support UniMaaS in production:
 
 - Platform Core Components — core services and integration points (Lead: NET, Contributors: NTUA, INRIA, UPV, NET-BE, ETS, FLM, LUK, CEL, ODINS, FDI, ANV)
