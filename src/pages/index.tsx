@@ -47,13 +47,13 @@ export default function Home(): ReactNode {
               </p>
               
               <Heading as="h3" className="margin-top--lg margin-bottom--md">
-                Integrated Suites
+                Components
               </Heading>
-              <p>The platform comprises three integrated suites:</p>
+              <p>The platform is documented through component pages grouped by capability area:</p>
               <ul>
-                <li><strong>Data Modelling Suite</strong>: manufacturing dataspaces, cloud-based resource monitoring, trusted cross-company data exchange, and digital product passport.</li>
-                <li><strong>Modelling Suite</strong>: modular modelling of manufacturing resources, intent-based servitization, AI-driven estimations, and Zero‑X analysis.</li>
-                <li><strong>Decision‑Making Suite</strong>: scheduling and planning of resources, plus circularity and sustainability optimization.</li>
+                <li><strong>Data Management</strong>: data spaces, resource monitoring, governance, knowledge graph, catalogue, and digital product passport.</li>
+                <li><strong>Modelling and Decision-Making</strong>: formal models, prediction, intent handling, evaluation, planning, simulation, orchestration, and optimization.</li>
+                <li><strong>Dashboard, Integration Layer, and Pilot / External Systems</strong>: frontend, backend integration, user-facing flows, and pilot ERP integrations.</li>
               </ul>
               
               <p className="margin-top--lg text--justify">
@@ -68,7 +68,7 @@ export default function Home(): ReactNode {
                   <Link className="button button--outline button--primary button--block" to="/architecture/">Architecture</Link>
                 </div>
                 <div className="col col--3">
-                  <Link className="button button--outline button--primary button--block" to="/suites/">Core Suites</Link>
+                  <Link className="button button--outline button--primary button--block" to="/components/">Components</Link>
                 </div>
                 <div className="col col--3">
                   <Link className="button button--outline button--primary button--block" to="/pilot-implementations/">Pilot Implementations</Link>
