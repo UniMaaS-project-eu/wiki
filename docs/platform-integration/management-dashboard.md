@@ -38,7 +38,7 @@ This component comprises the full suite of Graphical User Interface (GUI) elemen
 This component acts as the user-facing "marketplace catalog" of UniMaaS. It provides advanced search, filtering, and visualization capabilities over the Resource Registry, allowing customers to intuitively locate available manufacturing assets and services classified by their specific industrial domains.
 #### IC21 - Provider’s UI (Provider-Side Publication Interface)
 The dedicated interface through which Manufacturing Service Providers actively manage their offering. It provides the administrative tools to enter, update, or deprecate descriptors of manufacturing resources, data streams, and supply chain components. The UI ensures these descriptors are formatted in compliance with UniMaaS standards before being stored in the Resource Registry and made available to the broader UniMaaS software suites.
-### 3. Order Management & Interaction
+### 3. Order Management & KPI Monitoring
 #### IC22 - Chatbot Interaction (Consumer-Side Ordering Interface)
 An intelligent, conversational interface designed to simplify the order ingestion process. It enables consumers to submit high-level manufacturing intents or formal orders using natural language. The chatbot guides users to satisfy the minimum informational requirements needed by the platform for automated resource selection, orchestration, and subsequent end-to-end monitoring, providing real-time feedback on order acceptance status.
 #### IC23 - Real-Time Order Status UI (Bilateral Order Management)
