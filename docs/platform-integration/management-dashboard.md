@@ -7,7 +7,7 @@ sidebar_position: 1
 
 > This page will be completed by the following partners:
 >
-> **Lead:** CEL
+> **Lead:** CEL (Piero)
 >
 > **Contributors:** NTUA, UPV, NET, NET-BE, ODINS
 
