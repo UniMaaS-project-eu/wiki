@@ -20,8 +20,6 @@ To achieve this, the UniMaaS dashboard is architected around a dual-role framewo
 - An Onboarding and Marketplace Interface: Designed to streamline ecosystem entry, resource cataloging, and service discovery for both providers and consumers.
 - An Operational Cockpit: Tailored for the comprehensive, end-to-end monitoring and lifecycle management of manufacturing service chain execution.
 
-<br>
-
 ## Functional Components & Integrated Components (ICs)
 The core functionalities of the UniMaaS dashboard are cross-referenced with specific Integrated Components (ICs) as detailed below:
 
