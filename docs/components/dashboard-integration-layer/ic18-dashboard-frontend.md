@@ -30,8 +30,6 @@ As a GUI, it does not expose or provide APIs to other services.
 
 The following figure shows the dashboard architecture. The micro-frontends (UC19-UC25) are dynamically loaded, and their GUIs are graphically integrated by the main frontend: the dashboard. Each of these GUIs invokes the APIs of the Core Integration Platform, which acts as a "facade" for all the services of the UniMaaS platform. Finally, the "Intent-Based Servitisation Chatbot" component is integrated/linked to manage the chatbot's GUI for creating and submitting orders/intents.
 
-<img width="283" alt="image" src="https://github.com/user-attachments/assets/68c3c695-7276-44ca-9245-70504c93905b"></img>
-
 ## Data Models
 
 The data model of the dashboard is the data model of the Core Integration Platform's APIs.
