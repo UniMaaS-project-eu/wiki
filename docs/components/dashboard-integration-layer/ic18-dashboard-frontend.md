@@ -9,71 +9,46 @@ The sections below are suggested to keep component documentation consistent acro
 
 ## Description of Component
 
-A centralized user interface for stakeholders to visualize real-time flows, monitor KPIs, manage orders, and access planning tools.
+The UniMaaS dashboard is the integrated graphical user interface for the UniMaaS platform. It serves both as a marketplace where the offerings and orders of providers and customers converge, and as a dashboard to monitor order statuses along with the values and trends of the most significant KPIs for the various stakeholders.
 
 ## Integration Context
 
-Describe how the component connects with the rest of the platform.
+The UniMaaS dashboard is a cloud-based frontend application accessible via web browser. It features an architecture based on micro-frontends. Specifically, it dynamically loads and integrates micro-frontends, each of which is dedicated to providing a GUI to the various micro-services of the UniMaaS platform. These micro-frontends are:
+- IC19 Registration Page for Providers/Client
+- IC20 Search Engine for Customers
+- IC21 Provider’s UI 
+- IC22 Chatbot Interaction 
+- IC23 Real-Time Order Status UI IC24 Real-Time Infrastructure Updates
+- IC25 DPP Inteface Connection
 
-Suggested points:
-
-- Input dependencies from other components.
-- Output dependencies to other components.
-- Communication protocols and interfaces.
-- Main exchanged data, events, files, or API calls.
+The dashboard and all of its micro-frontends rely on input data provided through API calls (HTTP-Rest Communication Protocol) to the component IC17 - Core Integration Platform. 
 
 ## OpenAPI Specs / API Documentation
 
-Where applicable, provide:
-
-- Repository OpenAPI spec: TBD
-- Swagger UI: TBD
-
-Recommended approach:
-
-- Keep `docs/openapi.yaml` in the component repository.
-- Copy `docs/index.html` from `UniMaaS-project-eu/openapi-swagger-pages-template`.
-- Enable GitHub Pages from `main` branch, `/docs` folder.
-
-If the component does not expose an API, state that clearly.
+As a GUI, it does not expose or provide APIs to other services.
 
 ## Architecture of the Component
 
-Describe the internal architecture of the component.
+The following figure shows the dashboard architecture. The micro-frontends (UC19-UC25) are dynamically loaded, and their GUIs are graphically integrated by the main frontend: the dashboard. Each of these GUIs invokes the APIs of the Core Integration Platform, which acts as a "facade" for all the services of the UniMaaS platform. Finally, the "Intent-Based Servitisation Chatbot" component is integrated/linked to manage the chatbot's GUI for creating and submitting orders/intents.
 
-Suggested points:
-
-- Main services/modules.
-- Architecture mapping to the UniMaaS platform.
-- External systems used.
-- Diagram, if available.
+<img width="283" alt="image" src="https://github.com/user-attachments/assets/49cbd648-9185-4bd7-9252-e609d6843e56" />
 
 ## Data Models
 
-Describe the main data structures handled by the component.
-
-Suggested points:
-
-- Request/response models.
-- RDF/ontology terms.
-- Database entities.
-- Event/message payloads.
-- Files, schemas, or exchanged datasets.
+The data model of the dashboard is the data model of the Core Integration Platform's APIs.
 
 ## Deployment Notes
 
-Describe how the component is built, configured, deployed, and operated.
+Technology stack:
+- HTML
+- CSS
+- Javascript
+- Custom Web Elements
+- NodeJS
 
-Suggested points:
-
-- Existing codebase/repository link.
-- Programming languages and frameworks.
-- Dockerized: Yes/No.
-- State if a Dockerfile, Docker Compose, Helm, Kubernetes, or other deployment asset exists.
-- Environment dependencies, containers, systems, databases, queues, or external services.
-- Required environment variables or configuration files.
-- Minimum hardware/runtime requirements, if relevant.
+Containerization: Yes
+(TBD: Dockerfile + Docker-Compose)
 
 ## Other
 
-Add notes, comments, references, known limitations, open questions, or contact details.
+Nothing
