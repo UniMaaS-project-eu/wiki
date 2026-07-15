@@ -9,23 +9,23 @@ The sections below are suggested to keep component documentation consistent acro
 
 ## Description of Component
 
-This is the GUI component of the UniMaaS Dashboard that enables actors in the UniMaaS ecosystem to effectively enter the platform, configure themselves, and participate in MaaS processes.
+This is the GUI component of the UniMaaS Dashboard that enables consumer users to submit orders/intents to the platform and to verify their acceptance status, based on the minimum requirements needed by the platform for resource selection, orchestration, and end-to-end monitoring.
 
 ## Integration Context
 
-This component is a micro-frontend. Technically it is a web service that provides its GUIs to the dashboard frontend on demand. Its GUIs, when assembled into the dashboard frontend, run into a standard web browser container and call the APIs of the Core Integration Platform (using HTTP-Rest communication protocol) to support all the end-user interaction requests.
+This component is a full-stack web application. When the UniMaaS Dashboard needs to support this functionality it opens a new web page into the web browser to host this application and enable the user to submit new orders. 
 
 ## OpenAPI Specs / API Documentation
 
-This component exposes a set of URL-endpoints: one for each GUI it implements. These endpoints are exposed only to be used by the UniMaaS Dashboard frontend. No other UniMaaS services need to access them. 
+As a GUI, it does not expose or provide APIs to other services.
 
 ## Architecture of the Component
 
-This component is a self-contained web services that implements one or more GUI, in the form of Custom Web Components and capable to provide each one of them through an URL-endpoint.
+This is a full-stack web application that calls the APIs of the UniMaaS services to support the creation of new orders and to submit and register them.
 
 ## Data Models
 
-TBD: The data model of the dashboard depends on the data model of the Core Integration Platform's APIs.
+TBD: The data model of this application depends on the data model of the UniMaaS services related to the creation, validation and registration of orders.
 
 ## Deployment Notes
 
