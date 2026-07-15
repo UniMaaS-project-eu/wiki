@@ -9,7 +9,7 @@ The sections below are suggested to keep component documentation consistent acro
 
 ## Description of Component
 
-This is the GUI component of the UniMaaS Dashboard that enables actors in the UniMaaS ecosystem to effectively enter the platform, configure themselves, and participate in MaaS processes.
+This is the GUI component of the UniMaaS Dashboard that mediate the interaction between the human end-user and the UniMaaS platform to support the functionality for both Consumers and Providers to monitor the status of their respectively submitted and received orders. Furthermore to track the current values and trends of their more relevant KPIs.
 
 ## Integration Context
 
@@ -25,7 +25,7 @@ This component is a self-contained web services that implements one or more GUI,
 
 ## Data Models
 
-TBD: The data model of the dashboard depends on the data model of the Core Integration Platform's APIs.
+TBD: The data model of this component depends on the data model of the Core Integration Platform's APIs.
 
 ## Deployment Notes
 
