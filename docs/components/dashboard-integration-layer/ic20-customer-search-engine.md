@@ -9,7 +9,7 @@ The sections below are suggested to keep component documentation consistent acro
 
 ## Description of Component
 
-This is the GUI component of the UniMaaS Dashboard that enables actors in the UniMaaS ecosystem to effectively enter the platform, configure themselves, and participate in MaaS processes.
+This is the GUI component of the UniMaaS Dashboard that is used to visualize and search available resources, which the Resource Registry also classifies by industrial domain. In practice, this is the UniMaaS “marketplace catalog” UI.
 
 ## Integration Context
 
