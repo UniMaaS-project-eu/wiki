@@ -9,71 +9,35 @@ The sections below are suggested to keep component documentation consistent acro
 
 ## Description of Component
 
-Search engine for customers. Queries the Federated Catalogue and acts as the marketplace for UniMaaS products.
+This is the GUI component of the UniMaaS Dashboard that enables actors in the UniMaaS ecosystem to effectively enter the platform, configure themselves, and participate in MaaS processes.
 
 ## Integration Context
 
-Describe how the component connects with the rest of the platform.
-
-Suggested points:
-
-- Input dependencies from other components.
-- Output dependencies to other components.
-- Communication protocols and interfaces.
-- Main exchanged data, events, files, or API calls.
+This component is a micro-frontend. Technically it is a web service that provides its GUIs to the dashboard frontend on demand. Its GUIs, when assembled into the dashboard frontend, run into a standard web browser container and call the APIs of the Core Integration Platform (using HTTP-Rest communication protocol) to support all the end-user interaction requests.
 
 ## OpenAPI Specs / API Documentation
 
-Where applicable, provide:
-
-- Repository OpenAPI spec: TBD
-- Swagger UI: TBD
-
-Recommended approach:
-
-- Keep `docs/openapi.yaml` in the component repository.
-- Copy `docs/index.html` from `UniMaaS-project-eu/openapi-swagger-pages-template`.
-- Enable GitHub Pages from `main` branch, `/docs` folder.
-
-If the component does not expose an API, state that clearly.
+This component exposes a set of URL-endpoints: one for each GUI it implements. These endpoints are exposed only to be used by the UniMaaS Dashboard frontend. No other UniMaaS services need to access them. 
 
 ## Architecture of the Component
 
-Describe the internal architecture of the component.
-
-Suggested points:
-
-- Main services/modules.
-- Architecture mapping to the UniMaaS platform.
-- External systems used.
-- Diagram, if available.
+This component is a self-contained web services that implements one or more GUI, in the form of Custom Web Components and capable to provide each one of them through an URL-endpoint.
 
 ## Data Models
 
-Describe the main data structures handled by the component.
-
-Suggested points:
-
-- Request/response models.
-- RDF/ontology terms.
-- Database entities.
-- Event/message payloads.
-- Files, schemas, or exchanged datasets.
+TBD: The data model of the dashboard depends on the data model of the Core Integration Platform's APIs.
 
 ## Deployment Notes
 
-Describe how the component is built, configured, deployed, and operated.
+Technology stack:
+- HTML
+- CSS
+- Javascript
+- NodeJS
 
-Suggested points:
-
-- Existing codebase/repository link.
-- Programming languages and frameworks.
-- Dockerized: Yes/No.
-- State if a Dockerfile, Docker Compose, Helm, Kubernetes, or other deployment asset exists.
-- Environment dependencies, containers, systems, databases, queues, or external services.
-- Required environment variables or configuration files.
-- Minimum hardware/runtime requirements, if relevant.
+Dockerized: Yes (TBD: Dockerfile + Docker-Compose)
 
 ## Other
 
-Add notes, comments, references, known limitations, open questions, or contact details.
+None
+
