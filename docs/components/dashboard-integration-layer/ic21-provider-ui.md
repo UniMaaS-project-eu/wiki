@@ -25,7 +25,7 @@ This component is a self-contained web services that implements one or more GUI,
 
 ## Data Models
 
-TBD: The data model of the dashboard depends on the data model of the Core Integration Platform's APIs.
+TBD: The data model of this component depends on the data model of the Core Integration Platform's APIs.
 
 ## Deployment Notes
 
