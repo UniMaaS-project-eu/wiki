@@ -30,10 +30,10 @@ TBD: The data model of the dashboard depends on the data model of the Core Integ
 ## Deployment Notes
 
 Technology stack:
-HTML
-CSS
-Javascript
-NodeJS
+- HTML
+- CSS
+- Javascript
+- NodeJS
 
 Dockerized: Yes (TBD: Dockerfile + Docker-Compose)
 
