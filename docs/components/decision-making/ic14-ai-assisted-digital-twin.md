@@ -16,15 +16,20 @@ The sections below are suggested to keep component documentation consistent acro
 The AI-Assisted Digital Twin validates decisions by simulating manufacturing processes and supply chains using real-time data and AI. It assesses the feasibility, risks and performance of candidate decisions before they are executed, supporting the short, operational decision loop of the platform.
 
 ## Integration Context
+- **IC5 → IC14 ( Resource Monitoring Engine → AI-Assisted DT )**: The AI-Assisted Digital Twin requests the monitored real-time information or status of physical manufacturing layer assets to accordingly update the current state of the Digital Twin in real time.
+**Interface:** Apache Kafka, JSON. **Status:** Planned.
+  
+- **IC10 → IC14 ( AI Demand & Asset Predictor → AI-Assisted DT )**: The AI Demand & Asset Predictor continuously feeds predictive operational intelligence into the AI-Assisted Digital Twin to maintain an accurate and adaptive virtual representation of the UniMaaS manufacturing ecosystem. This enables the Digital Twin to simulate future system states, evaluate resource utilization scenarios, anticipate anomalies, and support predictive what-if analyses for manufacturing optimization and resilience assessment.
+**Interface:** REST API, JSON. **Status:** In Progress.
 
-- **IC10 → IC14 ( AI Demand & Asset Predictor → AI-Assisted DT )**: ... **Interface:** ... **Status:** ...
+- **IC14 → IC12 ( AI-Assisted DT → Zero-X Evaluation Engine )**: The simulation results of the AI-Assisted Digital Twin are propagated to the Zero-X Evaluation Engine verification or evaluation of Zero-X model properties.
+**Interface:** REST API, JSON. **Status:** Not started.
 
-- **IC14 → IC12 ( AI-Assisted DT → Zero-X Evaluation Engine )**: ... **Interface:** ... **Status:** ...
-
-- **IC14 → IC13 ( AI-Assisted DT → Planning and Scheduling Manager )**: ... **Interface:** ... **Status:** ...
-- **IC13 → IC14 ( Planning and Scheduling Manager → AI-Assisted DT )**: ... **Interface:** ... **Status:** ...
-
-- **IC15 → IC14 ( Resource Monitoring Engine → AI-Assisted DT )**: ... **Interface:** ... **Status:** ...
+- **IC14 → IC13 ( AI-Assisted DT → Planning and Scheduling Manager )**: In cases when the simulation results show infeasibilities of the current policy, the Planning and Scheduling Manager needs to be triggered for re-evaluation of the planning and scheduling decisions.
+**Interface:** REST API, JSON. **Status:** Not started.
+  
+- **IC13 → IC14 ( Planning and Scheduling Manager → AI-Assisted DT )**: Allow the DT to simulate or assist in a decision-making operation or an optimization algorithm performed by the Planning and Scheduling Manager.
+**Interface:** REST API, JSON. **Status:** Not started.
 
 - **IC14 → IC16 (AI-Assisted DT → Circularity & Sustainability Optimizer (CSO))**: The Digital Twin pushes, periodically or event-based, a structured dynamic state of the system combining resource monitoring data, telemetry/historical data, and asset predictions. With this data the CSO evaluates the current "health" of the circularity. **Interface:** REST API, JSON. **Status:** Not started.
 - **IC16 → IC14 (CSO  → AI-Assisted Digital Twin)**: Bi-directional exchange completing the loop above. The CSO returns a Circularity Health Index, including scores for material efficiency, remaining useful life (RUL) optimization, and waste-reduction potential. Per D6.1 (Section 6.2), the optimizer also propagates long-term sustainability objectives and alternative configuration profiles (e.g., supply chain topology modifications, resource re-allocations) back to the Digital Twin layer, which simulates these scenarios and returns an objective configuration ranking to guide final system adaptation. **Interface:** REST API, JSON. **Status:** Not started.
