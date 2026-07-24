@@ -51,7 +51,7 @@ The Cloud-based Resource Monitoring Engine is designed and implemented as a modu
 ### Layered Architecture
 
 
-<img src="T4.2Architecture.png" alt="drawing" width="600"/>
+![drawing](T4.2Architecture.png) 
 
 The lowest layer consists of heterogeneous devices, systems, and assets central to MaaS operations (e.g. IIoT sensors, actuators, manufacturing equipment, logistic and transportation assets exposing location or lifecycle information, Manufacturing Execution Systems (MES), Enterprise Resource Planning Systems (ERPs)) This layer produces data using heterogeneous communication protocols (MQTT, HTTP, CoAP, OPC UA) and proprietary interfaces, which the VO Layer abstracts into unified representations.
 
