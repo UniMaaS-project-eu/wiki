@@ -55,7 +55,7 @@ D7.1 lists the component's integration points with Interface Type "REST API" and
 - Repository OpenAPI spec: TBD
 - Swagger UI: TBD
 -->
-/*} 
+*/} 
 {/*
 <!--
 Recommended approach:
@@ -83,7 +83,7 @@ Suggested points:
 - External systems used.
 - Diagram, if available.
 -->
-/*}
+*/}
 ## Data Models
 Since Digital Twins are use-case dependent, Data Models are different based on the specific Digital-Twin they concern.
 Based on the documentation, data exchange between the Digital Twins and other platform compononets is mainly based on JSON files. However, other data structures may be used by this component, including for example python pickle (.pkl) files for storage and reusability of implemented models.
